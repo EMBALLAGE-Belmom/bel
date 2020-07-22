@@ -90,8 +90,9 @@ a:hover {
 
 img {
     float: left;
+    
 }
-
+img:hover {box-shadow: 10px 5px 10px 0 grey;}
 #btn {
     display: none;
     position: fixed;
