@@ -135,7 +135,7 @@ img {
     color: #888;
     font-weight: bold;
     font-size: 20px;
-    border-radius: 0 3px 3px 0;
+    border-radius: 50%;
     user-select: none;
 }
 
