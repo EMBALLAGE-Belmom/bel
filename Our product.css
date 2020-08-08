@@ -92,7 +92,7 @@ img {
     float: left;
     
 }
-img:hover {box-shadow:30px 20px 10px 0 black;}
+
 #btn {
     display: none;
     position: fixed;
